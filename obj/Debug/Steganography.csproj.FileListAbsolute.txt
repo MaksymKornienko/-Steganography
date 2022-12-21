@@ -1,0 +1,30 @@
+C:\Users\V3L3S\Desktop\Steganography-master\bin\Debug\Steganography.exe
+C:\Users\V3L3S\Desktop\Steganography-master\bin\Debug\Steganography.pdb
+C:\Users\V3L3S\Desktop\Steganography-master\obj\Debug\Steganography.csprojAssemblyReference.cache
+C:\Users\V3L3S\Desktop\Steganography-master\obj\Debug\Steganography.Form1.resources
+C:\Users\V3L3S\Desktop\Steganography-master\obj\Debug\Steganography.ImgPreview.resources
+C:\Users\V3L3S\Desktop\Steganography-master\obj\Debug\Steganography.Properties.Resources.resources
+C:\Users\V3L3S\Desktop\Steganography-master\obj\Debug\Steganography.csproj.GenerateResource.cache
+C:\Users\V3L3S\Desktop\Steganography-master\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\V3L3S\Desktop\Steganography-master\obj\Debug\Steganography.exe
+C:\Users\V3L3S\Desktop\Steganography-master\obj\Debug\Steganography.pdb
+C:\Work Projects\1891 (zulu)\Steganography\bin\Debug\Steganography.exe
+C:\Work Projects\1891 (zulu)\Steganography\bin\Debug\Steganography.pdb
+C:\Work Projects\1891 (zulu)\Steganography\obj\Debug\Steganography.csproj.AssemblyReference.cache
+C:\Work Projects\1891 (zulu)\Steganography\obj\Debug\Steganography.Form1.resources
+C:\Work Projects\1891 (zulu)\Steganography\obj\Debug\Steganography.ImgPreview.resources
+C:\Work Projects\1891 (zulu)\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+C:\Work Projects\1891 (zulu)\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
+C:\Work Projects\1891 (zulu)\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Work Projects\1891 (zulu)\Steganography\obj\Debug\Steganography.exe
+C:\Work Projects\1891 (zulu)\Steganography\obj\Debug\Steganography.pdb
+E:\Уроки\Третий курс первый семестр\СПЗ\Steganography\bin\Debug\Steganography.exe
+E:\Уроки\Третий курс первый семестр\СПЗ\Steganography\bin\Debug\Steganography.pdb
+E:\Уроки\Третий курс первый семестр\СПЗ\Steganography\obj\Debug\Steganography.csproj.AssemblyReference.cache
+E:\Уроки\Третий курс первый семестр\СПЗ\Steganography\obj\Debug\Steganography.Form1.resources
+E:\Уроки\Третий курс первый семестр\СПЗ\Steganography\obj\Debug\Steganography.ImgPreview.resources
+E:\Уроки\Третий курс первый семестр\СПЗ\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+E:\Уроки\Третий курс первый семестр\СПЗ\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
+E:\Уроки\Третий курс первый семестр\СПЗ\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+E:\Уроки\Третий курс первый семестр\СПЗ\Steganography\obj\Debug\Steganography.exe
+E:\Уроки\Третий курс первый семестр\СПЗ\Steganography\obj\Debug\Steganography.pdb
